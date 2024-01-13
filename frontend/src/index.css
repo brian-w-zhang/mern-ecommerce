@@ -21,7 +21,7 @@ header a {
 .products {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  column-gap: 16px;
+  column-gap: 1px;
   row-gap: 40px;
   margin-left: 50px;
   margin-right: 50px;
