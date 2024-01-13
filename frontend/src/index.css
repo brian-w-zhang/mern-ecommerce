@@ -19,8 +19,12 @@ header a {
 }
 
 .products {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .product {
@@ -28,10 +32,17 @@ header a {
   margin: 1rem;
 }
 
+@media only screen and (min-width: 601px) and (max-width: 1800px) {
+  .product img {
+    width: 100%; /* Adjust as needed for medium-sized screens */
+    max-width: 300px; /* Adjust the max-width as needed */
+  }
+}
+
+/* Default styles for screens wider than 1600px */
 .product img {
-  width: 100%;
-  /* configure */
-  max-width: 400px;
+  width: 100%; /* Default width for larger screens */
+  max-width: 400px; /* Default max-width */
 }
 
 .product-info {
