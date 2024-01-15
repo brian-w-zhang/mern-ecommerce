@@ -3,9 +3,9 @@
 CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce platform designed specifically for cat owners. This application allows users to browse and purchase cat-related products, providing a tailored shopping experience for cat enthusiasts.
 
 ## Table of Contents
+- [Inspiration](#inspiration)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Technical Descriptions](#technical-descriptions)
 
 ## Features
 
