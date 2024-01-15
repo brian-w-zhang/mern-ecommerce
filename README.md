@@ -8,7 +8,7 @@ CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce pl
 - [Technical Descriptions](#technical-descriptions)
 
 ## Inspiration
-As a cat owner myself, I wanted to research new products while showcasing some of my cat's favourite items. Here he is (Name: Quintus, Age: 4):
+As a cat owner myself, I wanted to research new products while showcasing some of my cat's favourite items. Here he is (Quintus, Age: 4):
 
 ![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/4631b1c3-c8cd-4846-8bd8-c2a45fe148e1)
 ![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/450ea8c1-c476-4178-8a80-b81d3301190f)
