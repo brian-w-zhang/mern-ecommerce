@@ -6,8 +6,6 @@ CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce pl
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
