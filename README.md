@@ -7,6 +7,15 @@ CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce pl
 - [Features](#features)
 - [Technical Descriptions](#technical-descriptions)
 
+## Inspiration
+As a cat owner myself, I wanted to research new products while showcasing some of my cat's favourite items. Here he is (Name: Quintus, Age: 4):
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/4631b1c3-c8cd-4846-8bd8-c2a45fe148e1)
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/450ea8c1-c476-4178-8a80-b81d3301190f)
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/d2429bd6-ba05-4af7-aa74-405807d2c7f2)
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/e4243d71-76eb-4cc3-94ca-2f756aec791e)
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/51374b62-f269-474a-93bf-04d94c1afaf2)
+![image](https://github.com/brian-w-zhang/mern-ecommerce/assets/152770271/6fbf049a-d6e4-4373-900b-5826fcdd030c)
+
 ## Features
 
 - **User Authentication:** Secure user authentication system with JWT (JSON Web Token) implementation.
