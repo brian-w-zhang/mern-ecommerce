@@ -71,4 +71,4 @@ As a cat owner myself, I wanted to research new products while showcasing some o
 11. **React 18 Upgrade:**
     - Upgraded the application to React 18, utilizing createRoot for improved rendering.
 
-Stay tuned for more details! Currently adding more products and sorting features. Changing Heroku deployment to proper domain soon.
+Stay tuned for more details! Currently adding more products and sorting features. Accessible link will be up soon.
