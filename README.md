@@ -63,10 +63,3 @@ CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce pl
 
 11. **React 18 Upgrade:**
     - Upgraded the application to React 18, utilizing createRoot for improved rendering.
-
-### How to Run Locally:
-
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:basir/mern-amazona.git
-   cd mern-amazona
