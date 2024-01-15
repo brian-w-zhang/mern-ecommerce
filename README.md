@@ -61,3 +61,5 @@ CatCart is a full-stack MERN (MongoDB, Express.js, React, Node.js) E-commerce pl
 
 11. **React 18 Upgrade:**
     - Upgraded the application to React 18, utilizing createRoot for improved rendering.
+
+Stay tuned for more details! Currently adding more products and sorting features.
